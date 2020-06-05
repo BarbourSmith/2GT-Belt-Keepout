@@ -2,6 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|GT2 Belt|1|$3.00|www.example.com|
+|Total: |1|$3.00| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $9.00
