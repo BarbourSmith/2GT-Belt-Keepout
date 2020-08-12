@@ -32,7 +32,7 @@
         {
             "atomType": "Input",
             "name": "Length",
-            "x": 0.027086383601756955,
+            "x": 0.013333333333333334,
             "y": 0.3984674329501916,
             "uniqueID": 239667,
             "ioValues": []
@@ -62,7 +62,7 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 0.13030746705710103,
+                    "x": 0.13469985358711567,
                     "y": 0.32567049808429116,
                     "uniqueID": 557519,
                     "ioValues": [
@@ -92,10 +92,6 @@
                     "y": 0.3754789272030651,
                     "uniqueID": 231526,
                     "ioValues": [
-                        {
-                            "name": "3D shape 1",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 2",
                             "ioValue": 10
@@ -202,13 +198,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 1",
-                    "ap2Primary": false,
-                    "ap1ID": 750123,
-                    "ap2ID": 231526
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 123979,
@@ -238,10 +227,6 @@
             "uniqueID": 396649,
             "ioValues": [
                 {
-                    "name": "3D shape 1",
-                    "ioValue": 10
-                },
-                {
                     "name": "3D shape 2",
                     "ioValue": 10
                 },
@@ -268,14 +253,14 @@
                 },
                 {
                     "name": "z-axis degrees",
-                    "ioValue": 190
+                    "ioValue": 225
                 }
             ]
         },
         {
             "atomType": "Input",
             "name": "Angle",
-            "x": 0.02489019033674963,
+            "x": 0.013333333333333334,
             "y": 0.6896551724137931,
             "uniqueID": 552596,
             "ioValues": []
@@ -289,7 +274,7 @@
             "ioValues": [
                 {
                     "name": "A",
-                    "ioValue": 10
+                    "ioValue": 45
                 }
             ],
             "currentEquation": "180+A"
@@ -491,13 +476,6 @@
             "ap2Primary": false,
             "ap1ID": 701030,
             "ap2ID": 284756
-        },
-        {
-            "ap1Name": "Geometry",
-            "ap2Name": "3D shape 1",
-            "ap2Primary": false,
-            "ap1ID": 301133,
-            "ap2ID": 396649
         },
         {
             "ap1Name": "geometry",
