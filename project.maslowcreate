@@ -384,21 +384,6 @@
             "fileTypeVersion": 1
         },
         {
-            "atomType": "Add BOM Tag",
-            "name": "Add BOM Tag",
-            "x": 0.7554904831625183,
-            "y": 0.5019157088122606,
-            "uniqueID": 312044,
-            "ioValues": [],
-            "BOMitem": {
-                "BOMitemName": "GT2 Belt",
-                "numberNeeded": 1,
-                "costUSD": 3,
-                "source": "www.example.com",
-                "totalNeeded": 1
-            }
-        },
-        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9853587115666179,
@@ -451,10 +436,9 @@
         },
         {
             "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 396649,
-            "ap2ID": 312044
+            "ap2Name": "number or geometry",
+            "ap2Primary": false,
+            "ap1ID": 396649
         },
         {
             "ap1Name": "geometry",
@@ -476,12 +460,6 @@
             "ap2Primary": false,
             "ap1ID": 701030,
             "ap2ID": 284756
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "number or geometry",
-            "ap2Primary": false,
-            "ap1ID": 312044
         }
     ],
     "fileTypeVersion": 1,
