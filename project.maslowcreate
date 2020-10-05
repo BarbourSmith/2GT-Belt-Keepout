@@ -56,7 +56,12 @@
             "x": 0.21449487554904834,
             "y": 0.5019157088122606,
             "uniqueID": 654617,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Length",
+                    "ioValue": 10
+                }
+            ],
             "topLevel": false,
             "allAtoms": [
                 {
@@ -84,6 +89,14 @@
                     "uniqueID": 261053,
                     "ioValues": [],
                     "selectedColorIndex": "11"
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Length",
+                    "x": 0.013333333333333334,
+                    "y": 0.4904214559386973,
+                    "uniqueID": 381785,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
