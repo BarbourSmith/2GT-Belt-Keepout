@@ -237,10 +237,18 @@
             ]
         },
         {
+            "atomType": "Input",
+            "name": "Angle",
+            "x": 0.013333333333333334,
+            "y": 0.6896551724137931,
+            "uniqueID": 552596,
+            "ioValues": []
+        },
+        {
             "atomType": "Rotate",
             "name": "Rotate",
-            "x": 0.3396778916544656,
-            "y": 0.5325670498084291,
+            "x": 0.32723279648609077,
+            "y": 0.6743295019157088,
             "uniqueID": 284756,
             "ioValues": [
                 {
@@ -256,14 +264,6 @@
                     "ioValue": 225
                 }
             ]
-        },
-        {
-            "atomType": "Input",
-            "name": "Angle",
-            "x": 0.013333333333333334,
-            "y": 0.6896551724137931,
-            "uniqueID": 552596,
-            "ioValues": []
         },
         {
             "atomType": "Equation",
@@ -441,18 +441,18 @@
             "ap1ID": 396649
         },
         {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 284756,
-            "ap2ID": 913108
-        },
-        {
             "ap1Name": "number or geometry",
             "ap2Name": "A",
             "ap2Primary": false,
             "ap1ID": 552596,
             "ap2ID": 701030
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 284756,
+            "ap2ID": 913108
         },
         {
             "ap1Name": "result",
